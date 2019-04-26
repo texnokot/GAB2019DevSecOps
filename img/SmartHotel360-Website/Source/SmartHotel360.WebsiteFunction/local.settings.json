@@ -1,0 +1,17 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "<Storage Account Connection String>",
+    "AzureWebJobsDashboard": "<Storage Account Connection String>",
+    "cosmos_uri": "<Cosmos DB (SQL API) URL (eg. https://petpictureuploadmetadata.documents.azure.com:443/)>",
+    "cosmos_key": "<Cosmos DB (SQL API) Key>",
+    "constr": "<Cosmos DB (SQL API) Connection String>",
+    "MicrosoftVisionApiKey": "<Cognitive Services Vision API Key>",
+    "MicrosoftVisionApiEndpoint": "<Cognitive Services Vision API URL (eg. https://southcentralus.api.cognitive.microsoft.com/vision/v1.0)>",
+    "MicrosoftVisionNumTags": "10",
+    "AzureSignalRConnectionString": "<Connection String to the SignalR Service instance>"
+  },
+  "Host": {
+    "CORS": "*"
+  }
+}
