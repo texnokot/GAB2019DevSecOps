@@ -1,4 +1,5 @@
 Global Azure Bootcamp 2019 Oslo. DevSecOps workshop
+
 **Contents**
 <!-- TOC -->
 
@@ -45,3 +46,7 @@ Start by creating a new Project using a preselected Lab. For that, on your brows
    ![WhiteSource Bolt activation](img/WhiteSourceBoltActivation.png)
    3. After a few seconds, we're good to go!
    ![WhiteSource Bolt activation done](img/WhiteSourceBoltDone.png)
+7. Import additional Git repositories needed for the workshop
+   1. Navigate to *Repos* and on the upper repositories drop down, select *Import repository*
+   ![Import the repository for Web Hotel](img/ImportRepository.png)
+
