@@ -1,4 +1,5 @@
-Global Azure Bootcamp 2019 Oslo. DevSecOps workshop.
+**Global Azure Bootcamp 2019 Oslo. DevSecOps workshop**
+
 Workshop fully focuses on implementing security practices in CI/CD pipelines. The goal of workshop is to introduce at least 2 security solutions such as WhiteSource Bolt and OWASP ZAP penetration testing tool.
 
 **Contents**
