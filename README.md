@@ -9,6 +9,7 @@ Global Azure Bootcamp 2019 Oslo. DevSecOps workshop
     - [MS Azure DevOps](#ms-azure-devops)
   - [DevSecOps workshop steps](#devsecops-workshop-steps)
     - [Setup Azure DevOps Project](#setup-azure-devops-project)
+    - [Setup Azure DevOps Project CI/CD pipelines](#setup-azure-devops-project-cicd-pipelines)
 
 <!-- /TOC -->
 # DevSecOps in Azure DevOps workshop
@@ -49,4 +50,8 @@ Start by creating a new Project using a preselected Lab. For that, on your brows
 7. Import additional Git repositories needed for the workshop
    1. Navigate to *Repos* and on the upper repositories drop down, select *Import repository*
    ![Import the repository for Web Hotel](img/ImportRepository.png)
+   2. Fill in the Clone URL with <https://github.com/Microsoft/SmartHotel360>
+   ![Import the repository for Web Hotel](img/SmartHotelRepo.png)
+   3. Do the same for the ZAP Proxy extension repository: <https://github.com/Deliveron/owasp-zap-vsts-extension.git>
 
+### Setup Azure DevOps Project CI/CD pipelines
