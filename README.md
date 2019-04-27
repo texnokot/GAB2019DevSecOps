@@ -63,6 +63,3 @@ Install an extension from Marketplace: https://marketplace.visualstudio.com/item
 SonarQube extension detect bugs, vulnerabilities and code smells across project branches and pull requests.
 Install an extension from Marketplace: https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarqube
 
-
-
-Link: https://smarthotel360cv5each4utynq.azurewebsites.net
